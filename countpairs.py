@@ -1,5 +1,3 @@
-from colorsys import yiq_to_rgb
-
 arr=[2,4,6,5,3,7]
 target=int(input("Enter a target:"))
 pairs=[]
